@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\bin\Debug\netcoreapp3.1\PocOnStrategyDP.exe
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\bin\Debug\netcoreapp3.1\PocOnStrategyDP.deps.json
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\bin\Debug\netcoreapp3.1\PocOnStrategyDP.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\bin\Debug\netcoreapp3.1\PocOnStrategyDP.runtimeconfig.dev.json
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\bin\Debug\netcoreapp3.1\PocOnStrategyDP.dll
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\bin\Debug\netcoreapp3.1\PocOnStrategyDP.pdb
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\obj\Debug\netcoreapp3.1\PocOnStrategyDP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\obj\Debug\netcoreapp3.1\PocOnStrategyDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\obj\Debug\netcoreapp3.1\PocOnStrategyDP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\obj\Debug\netcoreapp3.1\PocOnStrategyDP.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\obj\Debug\netcoreapp3.1\PocOnStrategyDP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\obj\Debug\netcoreapp3.1\PocOnStrategyDP.dll
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\obj\Debug\netcoreapp3.1\PocOnStrategyDP.pdb
+C:\Users\Lenovo\Downloads\Monocept\PocOnStrategyDP\PocOnStrategyDP\obj\Debug\netcoreapp3.1\PocOnStrategyDP.genruntimeconfig.cache
